@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning full-stack development 
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me insta: shauryashah__ , Linkdin: Shauryashah
-- 😄 Pronouns: He/Him
   
 
 <!---
